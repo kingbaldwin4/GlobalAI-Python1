@@ -1,0 +1,14 @@
+Alonso:14
+Vettel:5
+Hamilton:44
+Verstappen:1
+Russell:63
+Leclerc:16
+Sainz:55
+Perez:11
+Norris:4
+Stroll:18
+Tsunoda:22
+Gasly:10
+Schumacher:47
+Bottas:77
